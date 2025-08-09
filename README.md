@@ -17,7 +17,6 @@ Familiarize with Python libraries commonly used for deep learning:
 5. Statistical summaries (mean, std, quartiles)
 6. Histograms in a 1x4 layout
 7. Pairplot visualizations with Seaborn
-8. Custom PairGrid with KDE plots
 
 ## Dataset
 - **Online store customer dataset** (Kaggle)
